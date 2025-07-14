@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cómo identificar fuentes sanitarias confiables en Internet</title>
+  <style>
+    body { font-family: Arial, sans-serif; line-height: 1.6; padding: 20px; max-width: 800px; margin: auto; background-color: #fefefe; color: #333; }
+    h1, h2 { color: #005C97; margin-top: 30px; }
+    h2 { border-bottom: 2px solid #d3eafc; padding-bottom: 5px; }
+    ul { padding-left: 20px; }
+    ul li { margin-bottom: 10px; }
+    .alert { background-color: #e9f6fb; padding: 20px; border-left: 5px solid #007ca6; margin: 20px 0; border-radius: 4px; }
+    code { background-color: #f4f4f4; padding: 2px 4px; border-radius: 3px; font-family: monospace; }
+    footer { margin-top: 40px; font-style: italic; color: #555; text-align: center; border-top: 1px solid #ccc; padding-top: 10px; }
+  </style>
+</head>
+<body>
+  <h1>¿Cómo identificar fuentes sanitarias confiables en Internet?</h1>
+
+  <div class="alert">
+    <h2>Importancia de estar informados</h2>
+    <p><strong>Un paciente bien informado</strong> y que comprende los síntomas que pueden aparecer y sus causas, facilita la comunicación con el personal sanitario. Esto puede traducirse en la prevención de complicaciones y en una mejor toma de decisiones sobre su salud.</p>
+    <p>Internet es una fuente infinita de información, mucha de la cual no está avalada por profesionales sanitarios y alimenta <strong>creencias falsas sobre salud</strong>. De hecho, la desinformación en salud y alimentación es actualmente un problema importante.</p>
+    <p><strong>Este documento y los siguientes apartados</strong> te ayudarán a identificar fuentes fiables de información sanitaria en Internet.</p>
+  </div>
+
+  <div class="alert">
+    <h2>Riesgos de buscar información sobre salud en Internet</h2>
+    <ul>
+      <li><strong>Información errónea:</strong> Internet alberga una gran cantidad de información, que puede ser inexacta o perjudicial si no procede de fuentes fiables. En Internet abundan mitos y datos erróneos sobre la salud, ante los que debemos estar alerta.</li>
+      <li><strong>Autodiagnóstico incorrecto:</strong> La información online nunca puede sustituir al diagnóstico de un profesional de la salud, por lo que es muy importante evitar autodiagnosticarse enfermedades y poner en práctica por nuestra cuenta sus posibles tratamientos.</li>
+      <li><strong>Cibercondría:</strong> Este término hace referencia a la búsqueda excesiva en portales o redes sociales de información asociada a la salud, lo que te puede llevar a sentir saturación, estrés o miedo.</li>
+      <li><strong>Tratamientos fraudulentos:</strong> Al buscar o encontrar información sobre salud en Internet, existen riesgos de exposición a tratamientos no probados o fraudulentos. Esto puede suponer no solo la pérdida de dinero, sino sobre todo la sustitución de una atención médica adecuada.</li>
+      <li><strong>Riesgos de privacidad:</strong> Compartir información personal y médica en sitios web no seguros puede ser peligroso. La información de salud es altamente valiosa en el mercado negro, lo que la convierte en un objetivo para ciberdelincuentes.</li>
+    </ul>
+  </div>
+
+  <h2>¿Dónde buscar?</h2>
+  <table border="1" cellpadding="8" cellspacing="0" style="width:100%; border-collapse: collapse; margin-top: 10px;">
+    <thead style="background-color:#d3eafc;">
+      <tr>
+        <th>Tipo de fuente</th>
+        <th>Ejemplos</th>
+        <th>Motivo</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Bases de datos científicas</td>
+        <td><a href="https://pubmed.ncbi.nlm.nih.gov/" target="_blank">PubMed</a>, <a href="https://medlineplus.gov/" target="_blank">MedlinePlus</a></td>
+        <td>Contienen información médica validada por expertos.</td>
+      </tr>
+      <tr>
+        <td>Revistas científicas</td>
+        <td><a href="https://jamanetwork.com/" target="_blank">JAMA</a>, <a href="https://www.thelancet.com/" target="_blank">The Lancet</a></td>
+        <td>Publican investigaciones revisadas por pares.</td>
+      </tr>
+      <tr>
+        <td>Plataformas educativas</td>
+        <td><a href="https://www.sefh.es/escuela-de-pacientes" target="_blank">Escuela de Pacientes de la SEFH</a></td>
+        <td>Contenidos revisados por profesionales sanitarios.</td>
+      </tr>
+      <tr>
+        <td>Redes sociales profesionales</td>
+        <td>Perfiles verificados de hospitales y sociedades científicas</td>
+        <td>Información fiable y actualizada por expertos.</td>
+      </tr>
+      <tr>
+        <td>Buscadores especializados</td>
+        <td><a href="https://scholar.google.com/" target="_blank">Google Scholar</a></td>
+        <td>Priorizan publicaciones científicas revisadas.</td>
+      </tr>
+      <tr>
+        <td>Páginas web oficiales</td>
+        <td><a href="https://www.who.int/" target="_blank">OMS</a>, <a href="https://www.sanidad.gob.es/" target="_blank">Ministerio de Sanidad</a></td>
+        <td>Información institucional y verificada.</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <h2>2. ¿Cómo buscar?</h2>
+  <ul>
+    <li><strong>Define tu duda con claridad</strong>: antes de buscar, piensa qué quieres saber exactamente. Por ejemplo: "¿Cuáles son los síntomas del hipotiroidismo?"</li>
+    <li><strong>Utiliza palabras clave concretas</strong>: en lugar de poner frases largas, usa términos específicos como "hipotiroidismo síntomas adultos".</li>
+    <li><strong>Prueba con sinónimos</strong>: si no encuentras resultados, usa otras palabras (ej. "presión alta" en lugar de "hipertensión").</li>
+    <li><strong>Aplica operadores booleanos</strong>:
+      <ul>
+        <li><code>AND</code>: une conceptos ("diabetes AND alimentación saludable").</li>
+        <li><code>OR</code>: amplía resultados ("gripe OR influenza").</li>
+        <li><code>NOT</code>: excluye temas no deseados ("vitamina D NOT suplementos").</li>
+      </ul>
+    </li>
+    <li><strong>Filtra los resultados</strong>: en los buscadores como Google, selecciona solo los resultados del último año y/o de sitios oficiales (usando "site:.gov", "site:.org", etc.).</li>
+    <li><strong>Consulta varias fuentes</strong>: compara la información en distintas webs fiables para asegurarte de que coinciden.</li>
+    <li><strong>Sigue las referencias</strong>: si una web cita estudios o documentos, accede a ellos directamente para contrastar.</li>
+  </ul>
+
+  <h2>3. ¿Cómo saber si una fuente es fiable?</h2>
+  <p>Antes de confiar en una página de salud, es importante revisar quién está detrás de la información y cómo la presentan. Te recomendamos comprobar lo siguiente:</p>
+  <ul>
+    <li><strong>¿Quién lo publica?</strong> Debe ser una institución sanitaria, una sociedad científica o profesionales con formación reconocida.</li>
+    <li><strong>¿Está actualizada?</strong> La fecha de publicación debe ser reciente. Desconfía de artículos antiguos o sin fecha.</li>
+    <li><strong>¿Incluye referencias científicas?</strong> Es un buen signo que cite estudios o guías clínicas de organismos oficiales.</li>
+    <li><strong>¿Es clara y objetiva?</strong> Una fuente fiable usa lenguaje claro, sin exageraciones ni lenguaje comercial.</li>
+    <li><strong>¿Tiene conflictos de interés?</strong> Si hay publicidad o se intenta vender un producto concreto, es mejor contrastar la información en otro lugar.</li>
+    <li><strong>¿Permite el contacto?</strong> Las webs serias suelen tener un apartado de contacto con datos del equipo responsable.</li>
+  </ul>
+
+  <h2>4. Resultado</h2>
+  <p>Aplicando estas estrategias se pueden identificar fuentes fiables y responder dudas comunes sobre salud, de forma segura y con tranquilidad.</p>
+
+  <h2>5. Reflexión personal</h2>
+  <p>He aprendido que informarse en Internet puede ser útil si se hace con criterio. Ahora sé diferenciar qué fuentes son de confianza y cómo explicar a otros pacientes cómo hacerlo también.</p>
+
+  <div class="alert">
+    <strong>Recuerda:</strong> La información online no sustituye la consulta médica. Ante dudas, acude siempre a un profesional sanitario.
+  </div>
+
+  <footer>
+    <p><strong>Autora:</strong> Covadonga Pérez Menéndez Conde. Farmacéutica Hospitalaria del Hospital Universitario Ramón y Cajal.</p>
+    <p><strong>Fecha de última actualización:</strong> Julio de 2025</p>
+    <p><strong>Fuentes consultadas:</strong></p>
+    <ul>
+      <li>MedlinePlus. National Library of Medicine. https://medlineplus.gov/</li>
+      <li>Organización Mundial de la Salud (OMS). https://www.who.int/</li>
+      <li>Ministerio de Sanidad, Consumo y Bienestar Social. https://www.sanidad.gob.es/</li>
+      <li>Escuela de Pacientes SEFH. https://www.sefh.es/escuela-de-pacientes</li>
+      <li>JAMA Network. https://jamanetwork.com/</li>
+    </ul>
+    <p>Elaborado con fines divulgativos.</p>
+  </footer>
+</body>
+</html>
